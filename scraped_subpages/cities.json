@@ -1,0 +1,980 @@
+{
+  "url": "https://www.dexgo.club/en/cities",
+  "path": "/en/cities",
+  "texts": [
+    {
+      "tag": "span",
+      "text": "top of page",
+      "parent_class": [
+        "Vd6aQZ",
+        "ignore-focus",
+        "SCROLL_TO_TOP"
+      ]
+    },
+    {
+      "tag": "h6",
+      "text": "dexGO",
+      "parent_class": [
+        "Z_l5lU",
+        "ku3DBC",
+        "zQ9jDz",
+        "qvSjx3",
+        "Vq6kJx",
+        "comp-lf8b3f64",
+        "wixui-rich-text"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "dexGO",
+      "parent_class": [
+        "font_6",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "dexGO",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Marketplace",
+      "parent_class": [
+        "comp-kr229ybq",
+        "FubTgk"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "Marketplace",
+      "parent_class": [
+        "uDW_Qe",
+        "wixui-button",
+        "PlZyDq"
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Gameplay",
+      "parent_class": [
+        "y7qwii"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Gameplay",
+      "parent_class": [
+        "Tg1gOB",
+        "wixui-dropdown-menu__item",
+        "xTjc1A"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Gameplay",
+      "parent_class": []
+    },
+    {
+      "tag": "li",
+      "text": "Our cities",
+      "parent_class": [
+        "y7qwii"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Our cities",
+      "parent_class": [
+        "Tg1gOB",
+        "wixui-dropdown-menu__item",
+        "xTjc1A"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Our cities",
+      "parent_class": []
+    },
+    {
+      "tag": "li",
+      "text": "Routes",
+      "parent_class": [
+        "y7qwii"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Routes",
+      "parent_class": [
+        "Tg1gOB",
+        "wixui-dropdown-menu__item",
+        "xTjc1A"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Routes",
+      "parent_class": []
+    },
+    {
+      "tag": "li",
+      "text": "Contacts",
+      "parent_class": [
+        "y7qwii"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Contacts",
+      "parent_class": [
+        "Tg1gOB",
+        "wixui-dropdown-menu__item",
+        "xTjc1A"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Contacts",
+      "parent_class": []
+    },
+    {
+      "tag": "li",
+      "text": "WhitePaper",
+      "parent_class": [
+        "y7qwii"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "WhitePaper",
+      "parent_class": [
+        "Tg1gOB",
+        "wixui-dropdown-menu__item",
+        "xTjc1A"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "WhitePaper",
+      "parent_class": []
+    },
+    {
+      "tag": "li",
+      "text": "Еще",
+      "parent_class": [
+        "y7qwii"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Еще",
+      "parent_class": []
+    },
+    {
+      "tag": "h4",
+      "text": "DexGO world locations",
+      "parent_class": [
+        "Z_l5lU",
+        "ku3DBC",
+        "zQ9jDz",
+        "qvSjx3",
+        "Vq6kJx",
+        "comp-lk2ckfo7",
+        "wixui-rich-text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "DexGO world locations",
+      "parent_class": [
+        "font_4",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Currently, DexGO is represented in 21 countries of the world: USA, United Kingdom, Canada, Ukraine, Switzerland, Spain, South Korea and others.",
+      "parent_class": [
+        "Z_l5lU",
+        "ku3DBC",
+        "zQ9jDz",
+        "qvSjx3",
+        "Vq6kJx",
+        "comp-lk2coqja",
+        "wixui-rich-text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "Currently, DexGO is represented in 21 countries of the world: USA, United Kingdom, Canada, Ukraine, Switzerland, Spain, South Korea and others.",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Our representative in cities:",
+      "parent_class": [
+        "Z_l5lU",
+        "ku3DBC",
+        "zQ9jDz",
+        "qvSjx3",
+        "Vq6kJx",
+        "comp-ltilpp6x",
+        "wixui-rich-text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "Our representative in cities:",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "Our representative in cities:",
+      "parent_class": [
+        "color_41",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "🇺🇦 Kyiv, Ukraine.TikTok",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "🇺🇦 Kyiv, Ukraine.TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "TikTok",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "🇺🇦 Lviv, Ukraine.TikTok",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "🇺🇦 Lviv, Ukraine.TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "TikTok",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "🇪🇸 Madrid, Spain.TikTok",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "🇪🇸 Madrid, Spain.TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "TikTok",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "🇬🇧 London, UK.TikTok",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "🇬🇧 London, UK.TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "TikTok",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "🇰🇷 Seoul, South Korea.TikTok",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "🇰🇷 Seoul, South Korea.TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "🇰🇷 Seoul, South Korea.TikTok",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "🇺🇸 Los Angeles, USA.TikTok",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "🇺🇸 Los Angeles, USA.TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "🇺🇸 Los Angeles, USA.TikTok",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "🇨🇭 Zurich, Switzerland.TikTok",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "🇨🇭 Zurich, Switzerland.TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "🇨🇭 Zurich, Switzerland.TikTok",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "TikTok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "​",
+      "parent_class": [
+        "Z_l5lU",
+        "ku3DBC",
+        "zQ9jDz",
+        "qvSjx3",
+        "Vq6kJx",
+        "comp-ltilpp6x",
+        "wixui-rich-text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "​",
+      "parent_class": [
+        "font_7",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "​",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "​",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "WhitePaper",
+      "parent_class": [
+        "comp-lelawtdw"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "WhitePaper",
+      "parent_class": [
+        "StylableButton2545352419__root",
+        "style-lg6e9df8__root",
+        "wixui-button",
+        "StylableButton2545352419__link"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "WhitePaper",
+      "parent_class": [
+        "StylableButton2545352419__container"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "PitchDeck",
+      "parent_class": [
+        "comp-lelbqaje"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "PitchDeck",
+      "parent_class": [
+        "StylableButton2545352419__root",
+        "style-lg6e9lyk__root",
+        "wixui-button",
+        "StylableButton2545352419__link"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "PitchDeck",
+      "parent_class": [
+        "StylableButton2545352419__container"
+      ]
+    },
+    {
+      "tag": "h6",
+      "text": "Tik-Tok",
+      "parent_class": [
+        "Z_l5lU",
+        "ku3DBC",
+        "zQ9jDz",
+        "qvSjx3",
+        "Vq6kJx",
+        "comp-lela2p1b",
+        "wixui-rich-text"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Tik-Tok",
+      "parent_class": [
+        "font_6",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "Tik-Tok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "Tik-Tok",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "h6",
+      "text": "Twitter",
+      "parent_class": [
+        "Z_l5lU",
+        "ku3DBC",
+        "zQ9jDz",
+        "qvSjx3",
+        "Vq6kJx",
+        "comp-lela2p3i",
+        "wixui-rich-text"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Twitter",
+      "parent_class": [
+        "font_6",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "Twitter",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "Twitter",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "h6",
+      "text": "Telegram",
+      "parent_class": [
+        "Z_l5lU",
+        "ku3DBC",
+        "zQ9jDz",
+        "qvSjx3",
+        "Vq6kJx",
+        "comp-lela2ox4",
+        "wixui-rich-text"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Telegram",
+      "parent_class": [
+        "font_6",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "Telegram",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "Telegram",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "h6",
+      "text": "Instagram",
+      "parent_class": [
+        "Z_l5lU",
+        "ku3DBC",
+        "zQ9jDz",
+        "qvSjx3",
+        "Vq6kJx",
+        "comp-lela2oza",
+        "wixui-rich-text"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "Instagram",
+      "parent_class": [
+        "font_6",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "Instagram",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "Instagram",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "alex@openbisea.com",
+      "parent_class": [
+        "Z_l5lU",
+        "ku3DBC",
+        "zQ9jDz",
+        "qvSjx3",
+        "Vq6kJx",
+        "comp-kr25lcts",
+        "wixui-rich-text"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "alex@openbisea.com",
+      "parent_class": [
+        "font_9",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "alex@",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "openbisea.com",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "© dexGO, 2023",
+      "parent_class": [
+        "Z_l5lU",
+        "ku3DBC",
+        "zQ9jDz",
+        "qvSjx3",
+        "Vq6kJx",
+        "comp-lela9a09",
+        "wixui-rich-text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "© dexGO, 2023",
+      "parent_class": [
+        "font_9",
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "© dexGO, 2023",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "© dexGO, 2023",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "a",
+      "text": "© dexGO, 2023",
+      "parent_class": [
+        "wixui-rich-text__text"
+      ]
+    },
+    {
+      "tag": "span",
+      "text": "bottom of page",
+      "parent_class": [
+        "Vd6aQZ",
+        "ignore-focus",
+        "SCROLL_TO_BOTTOM"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "original_src": "https://static.wixstatic.com/media/287f6f_aecfc8a2c74a4b34a457882b2d378806~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Black%20White%20Simple%20Monochrome%20Initial%20Name%20Logo.png",
+      "full_url": "https://static.wixstatic.com/media/287f6f_aecfc8a2c74a4b34a457882b2d378806~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Black%20White%20Simple%20Monochrome%20Initial%20Name%20Logo.png",
+      "local_path": "src/assets/scraped/Black%20White%20Simple%20Monochrome%20Initial%20Name%20Logo_30.png",
+      "alt": "Black White Simple Monochrome Initial Name Logo.png"
+    },
+    {
+      "original_src": "https://static.wixstatic.com/media/287f6f_3b52d48ef8534cceab8740828b7cff72~mv2.png/v1/crop/x_317,y_417,w_4334,h_2894/fill/w_820,h_548,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(15).png",
+      "full_url": "https://static.wixstatic.com/media/287f6f_3b52d48ef8534cceab8740828b7cff72~mv2.png/v1/crop/x_317,y_417,w_4334,h_2894/fill/w_820,h_548,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(15).png",
+      "local_path": "src/assets/scraped/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(15)_1.png",
+      "alt": "Дизайн без названия (15).png"
+    },
+    {
+      "original_src": "https://static.wixstatic.com/media/287f6f_aecfc8a2c74a4b34a457882b2d378806~mv2.png/v1/fill/w_99,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Black%20White%20Simple%20Monochrome%20Initial%20Name%20Logo.png",
+      "full_url": "https://static.wixstatic.com/media/287f6f_aecfc8a2c74a4b34a457882b2d378806~mv2.png/v1/fill/w_99,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Black%20White%20Simple%20Monochrome%20Initial%20Name%20Logo.png",
+      "local_path": "src/assets/scraped/Black%20White%20Simple%20Monochrome%20Initial%20Name%20Logo_31.png",
+      "alt": "Black White Simple Monochrome Initial Name Logo.png"
+    },
+    {
+      "original_src": "https://static.wixstatic.com/media/287f6f_e33133bea0b04790a51eaab1f6f5dc77~mv2.png/v1/fill/w_25,h_29,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1641853397_1-abrakadabra-fun-p-logo-tiktok-png-1.png",
+      "full_url": "https://static.wixstatic.com/media/287f6f_e33133bea0b04790a51eaab1f6f5dc77~mv2.png/v1/fill/w_25,h_29,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1641853397_1-abrakadabra-fun-p-logo-tiktok-png-1.png",
+      "local_path": "src/assets/scraped/1641853397_1-abrakadabra-fun-p-logo-tiktok-png-1_16.png",
+      "alt": "1641853397_1-abrakadabra-fun-p-logo-tiktok-png-1.png"
+    },
+    {
+      "original_src": "https://static.wixstatic.com/media/287f6f_a9d2087f333c4bb1abd6f46b808f3437~mv2.png/v1/fill/w_28,h_23,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/pngimg_com%20-%20twitter_PNG15.png",
+      "full_url": "https://static.wixstatic.com/media/287f6f_a9d2087f333c4bb1abd6f46b808f3437~mv2.png/v1/fill/w_28,h_23,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/pngimg_com%20-%20twitter_PNG15.png",
+      "local_path": "src/assets/scraped/pngimg_com%20-%20twitter_PNG15_15.png",
+      "alt": "pngimg.com - twitter_PNG15.png"
+    },
+    {
+      "original_src": "https://static.wixstatic.com/media/287f6f_5e0ac5f2ec534253a77defb6b11cef19~mv2.png/v1/fill/w_29,h_29,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/tel.png",
+      "full_url": "https://static.wixstatic.com/media/287f6f_5e0ac5f2ec534253a77defb6b11cef19~mv2.png/v1/fill/w_29,h_29,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/tel.png",
+      "local_path": "src/assets/scraped/tel_16.png",
+      "alt": "tel.png"
+    },
+    {
+      "original_src": "https://static.wixstatic.com/media/287f6f_20b3e340bb814f4aa94e807bfad882ff~mv2.png/v1/fill/w_29,h_29,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/33.png",
+      "full_url": "https://static.wixstatic.com/media/287f6f_20b3e340bb814f4aa94e807bfad882ff~mv2.png/v1/fill/w_29,h_29,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/33.png",
+      "local_path": "src/assets/scraped/33_16.png",
+      "alt": "33.png"
+    },
+    {
+      "original_src": "https://static.wixstatic.com/media/287f6f_39c88296af8d402ab791e4f0d12d033f~mv2.png/v1/fill/w_39,h_29,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/mail.png",
+      "full_url": "https://static.wixstatic.com/media/287f6f_39c88296af8d402ab791e4f0d12d033f~mv2.png/v1/fill/w_39,h_29,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/mail.png",
+      "local_path": "src/assets/scraped/mail_16.png",
+      "alt": "mail.png"
+    }
+  ],
+  "links": [
+    {
+      "type": "link",
+      "text": "",
+      "href": "https://www.dexgo.club/en"
+    },
+    {
+      "type": "link",
+      "text": "dexGO",
+      "href": "https://www.dexgo.club/en"
+    },
+    {
+      "type": "link",
+      "text": "Marketplace",
+      "href": "https://www.dexgo.club/en/nft-marketplace"
+    },
+    {
+      "type": "link",
+      "text": "Gameplay",
+      "href": "https://www.dexgo.club/en/gameplay"
+    },
+    {
+      "type": "link",
+      "text": "Our cities",
+      "href": "https://www.dexgo.club/en/cities"
+    },
+    {
+      "type": "link",
+      "text": "Routes",
+      "href": "https://www.dexgo.club/en/routes"
+    },
+    {
+      "type": "link",
+      "text": "Contacts",
+      "href": "https://www.dexgo.club/en"
+    },
+    {
+      "type": "link",
+      "text": "WhitePaper",
+      "href": "https://docs.openbisea.com/dexgo-white-paper/"
+    },
+    {
+      "type": "link",
+      "text": "TikTok",
+      "href": "https://www.tiktok.com/@dexgo.ua"
+    },
+    {
+      "type": "link",
+      "text": "TikTok",
+      "href": "https://www.tiktok.com/@dexgo.lviv"
+    },
+    {
+      "type": "link",
+      "text": "TikTok",
+      "href": "https://www.tiktok.com/@dexgo.es"
+    },
+    {
+      "type": "link",
+      "text": "TikTok",
+      "href": "https://www.tiktok.com/@dexgo.uk"
+    },
+    {
+      "type": "link",
+      "text": "TikTok",
+      "href": "https://www.tiktok.com/@dexgo_krw"
+    },
+    {
+      "type": "link",
+      "text": "TikTok",
+      "href": "https://www.tiktok.com/@dexgo.la"
+    },
+    {
+      "type": "link",
+      "text": "TikTok",
+      "href": "https://www.tiktok.com/@dexgo.ch"
+    },
+    {
+      "type": "link",
+      "text": "WhitePaper",
+      "href": "https://docs.openbisea.com/dexgo-white-paper/"
+    },
+    {
+      "type": "link",
+      "text": "PitchDeck",
+      "href": "https://www.dexgo.club/_files/ugd/287f6f_ab6f46720c4942b2b38adb5af50a8ab7.pdf?index=true"
+    },
+    {
+      "type": "link",
+      "text": "",
+      "href": "https://www.tiktok.com/@dexgo.ua"
+    },
+    {
+      "type": "link",
+      "text": "Tik-Tok",
+      "href": "https://www.tiktok.com/@dexgo.ua"
+    },
+    {
+      "type": "link",
+      "text": "",
+      "href": "https://twitter.com/dexgo_official"
+    },
+    {
+      "type": "link",
+      "text": "Twitter",
+      "href": "https://twitter.com/dexgo_official"
+    },
+    {
+      "type": "link",
+      "text": "",
+      "href": "https://t.me/dexgo_ua"
+    },
+    {
+      "type": "link",
+      "text": "Telegram",
+      "href": "https://t.me/dexgo_ua"
+    },
+    {
+      "type": "link",
+      "text": "",
+      "href": "https://www.instagram.com/dexgo.ua/"
+    },
+    {
+      "type": "link",
+      "text": "Instagram",
+      "href": "https://www.instagram.com/reel/CrN3y0iJuJR/?igshid=YmMyMTA2M2Y="
+    },
+    {
+      "type": "link",
+      "text": "",
+      "href": "mailto:alex@openbisea.com"
+    },
+    {
+      "type": "link",
+      "text": "alex@openbisea.com",
+      "href": "mailto:alex@openbisea.com"
+    },
+    {
+      "type": "link",
+      "text": "© dexGO, 2023",
+      "href": "https://www.dexgo.club/en"
+    }
+  ]
+}

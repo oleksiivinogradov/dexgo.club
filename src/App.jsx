@@ -11,6 +11,7 @@ import Gameplay from './pages/Gameplay';
 import Cities from './pages/Cities';
 import RoutesPage from './pages/RoutesPage';
 import Marketplace from './pages/Marketplace';
+import PrivacyPolicySeaBattle from './pages/PrivacyPolicySeaBattle';
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
           <Route path="cities" element={<Cities />} />
           <Route path="routes" element={<RoutesPage />} />
           <Route path="marketplace" element={<Marketplace />} />
+          <Route path="privacy-policy-seabattle" element={<PrivacyPolicySeaBattle />} />
         </Route>
       </Routes>
     </Router>
